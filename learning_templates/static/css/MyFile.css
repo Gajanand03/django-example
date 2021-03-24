@@ -1,0 +1,9 @@
+h1{
+    color:red;text-align:center;font-size:200px;
+    }
+body{
+    background-image:url("static/images/back.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+
+    }
